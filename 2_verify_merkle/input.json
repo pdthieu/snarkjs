@@ -1,0 +1,9 @@
+{
+  "preimage": [1, 2, 3],
+  "root": "0xc09d8aa24d74ddfee99980464396835e499a52953c38d744a92e96112cfdc39",
+  "paths2_root": [
+    "0x28faa11647a40b3a70e2f03b228a3cdbf7e81c3a87d54842dced1227131d3a47",
+    "0x25233f2c8075b93c9fb80594c9d9999f11f8f74f233bf7cbc5a10b077d8ba18f"
+  ],
+  "paths2_root_pos": [1, 1]
+}
