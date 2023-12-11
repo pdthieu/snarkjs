@@ -29,8 +29,10 @@ template LeafExistence(k, l){
     }
 
     // equality constraint: input tx root === computed tx root 
+    log(root);
+    log(computed_root.out);
     root === computed_root.out;
 }
 
-component main {public [root]} = LeafExistence(2, 3);
+component main {public [root, preimage]} = LeafExistence(20, 3);
 
